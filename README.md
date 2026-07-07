@@ -1,4 +1,4 @@
-# ShiHua_ALgo
+# shihua_algo
 
 ## 1.介绍
 
